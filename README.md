@@ -82,5 +82,4 @@
 
 ## 📞 Контакты
 Если у вас есть вопросы или предложения, свяжитесь с нами:
-- **Арина Пестова** 📧: [arinpest5@gmail.com](mailto:arinpest5@gmail.com)
-- **GitHub** 🐙: [Sabiqoon](https://github.com/Sabiqoon)
+- **Дмитрий Кутузов** 📧: [mitrichdmitrich772@gmail.com](mailto:mitrichdmitrich772@gmail.com)
